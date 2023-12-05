@@ -24,7 +24,7 @@ const Page = () => {
       </section>
       <section className="ServicesContainer">
         <h2 className="Title">Nos services</h2>
-        <p>Nous organisons des événements sur mesure partout dans le monde</p>
+        <p>Nou organisons des événements sur mesure partout dans le monde</p>
         <div className="ListContainer">
           <ServiceCard imageSrc="/images/priscilla-du-preez-Q7wGvnbuwj0-unsplash1.png">
             <h3>Soirée d’entreprise</h3>
