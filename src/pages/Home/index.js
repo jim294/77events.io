@@ -17,11 +17,11 @@ const Page = () => {
   const { last } = useData();
   return (
     <>
-      <header>
+      <header data-testid="Header">
         <Menu />
       </header>
-      <main>
-        <section className="SliderContainer">
+      <main data-testid="Main">
+        <section className="SliderContainer" data-testid="Slider">
           <Slider />
         </section>
         <section className="ServicesContainer" id="nos-services">
@@ -112,7 +112,7 @@ const Page = () => {
           </Modal>
         </div>
       </main>
-      <footer className="row">
+      <footer className="row" data-testid="Footer">
         <div className="col presta">
           <h3>Notre derniére prestation</h3>
           <Modal key={last?.id} Content={<ModalEvent event={last} />}>
@@ -124,6 +124,7 @@ const Page = () => {
                 date={new Date(last?.date)}
                 label={last?.type}
                 small
+                data-testid="lastEven"
               />
             )}
           </Modal>
