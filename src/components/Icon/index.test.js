@@ -15,9 +15,9 @@ describe("Icon component", () => {
   // test unitaire 1
   describe("When a icon is created with name facebook", () => {
     it("the icon contain the good path hash value", () => {
-      render(<Icon name="twitch" />);
+      render(<Icon name="facebook" />);
       expect(md5(screen.getByTestId("icon").getAttribute("d"))).toEqual(
-        "327fbc38c8e878259c3ec35ef231517a"
+        "bbea4c9e40773b969fdb6e406059f853"
       );
     });
   });
