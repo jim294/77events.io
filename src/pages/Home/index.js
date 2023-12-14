@@ -65,31 +65,37 @@ const Page = () => {
               imageSrc="/images/stephanie-liverani-Zz5LQe-VSMY-unsplash.png"
               name="Samira"
               position="CEO"
+              imageAlt="photo de Samira"
             />
             <PeopleCard
               imageSrc="/images/linkedin-sales-solutions-pAtA8xe_iVM-unsplash.png"
               name="Jean-baptiste"
               position="Directeur marketing"
+              imageAlt="photo de JB"
             />
             <PeopleCard
               imageSrc="/images/christina-wocintechchat-com-SJvDxw0azqw-unsplash.png"
               name="Alice"
               position="CXO"
+              imageAlt="photo de Alice"
             />
             <PeopleCard
               imageSrc="/images/jonas-kakaroto-KIPqvvTOC1s-unsplash.png"
               name="Luís"
               position="Animateur"
+              imageAlt="photo de Luis"
             />
             <PeopleCard
               imageSrc="/images/amy-hirschi-b3AYk8HKCl0-unsplash1.png"
               name="Christine"
               position="VP animation"
+              imageAlt="photo de Christine"
             />
             <PeopleCard
               imageSrc="/images/christina-wocintechchat-com-0Zx1bDv5BNY-unsplash.png"
               name="Isabelle"
               position="VP communication"
+              imageAlt="photo de Isabelle"
             />
           </div>
         </section>
