@@ -7,6 +7,8 @@ Je suis sollicité par l'agence événementielle 724events pour finaliser la nou
 
 Mon site est visible sur : [77events by Jim294](https://jim294.github.io/77events.io/)
 
+Mon carnet de recettes visible [ici](http://91.163.49.151:61821/share/8oJEPfElujFlP6Tm/Deschamps_Jean-Marie_cahier%20de%20recette_122023.pdf) => ouvrez sur chrome dans une nouvelle fenêtre et validez dans la barre de recherche pour  télécharger le document.
+
 ## Objectifs
 
 1. Installer l'environnement de développement
