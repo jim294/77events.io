@@ -5,7 +5,7 @@
 
 Je suis sollicité par l'agence événementielle 724events pour finaliser la nouvelle version de son site vitrine. Le projet a été partiellement développé par un freelance précédent, mais des bugs subsistent. Ma mission consiste à débugger le site, compléter le cahier de recette, et assurer son bon fonctionnement.
 
-Mon site est visible sur : [77events by Jim294](https://jim294.github.io/77events.io/)
+Mon site est visible sur : [77events by Jim294](https://77events-jim294.netlify.app)
 
 Mon carnet de recettes visible [ici](http://91.163.49.151:61821/share/8oJEPfElujFlP6Tm/Deschamps_Jean-Marie_cahier%20de%20recette_122023.pdf) => ouvrez sur chrome dans une nouvelle fenêtre et validez dans la barre de recherche pour  télécharger le document.
 
